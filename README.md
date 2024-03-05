@@ -9,4 +9,4 @@ you can choose not to display the MINE BOARD by commenting out code on line 420 
 		showMines(dataBoard);
 		cout << endl << endl;
 
-  happy codihg :)
+  happy coding :)
